@@ -1,5 +1,9 @@
 # PVST: Pyramid Vision Transformer for Saliency Detection
 
+## Architecture
+
+![Saliency Detection GIF 1](media/Architecture.png)
+
 ## Overview
 The Pyramid Vision Transformer (PVST) project is an advanced deep learning model designed for saliency detection tasks. Utilizing a hierarchical representation of images, PVST employs transformer architectures to efficiently process visual data and predict areas of an image that attract human attention.
 
@@ -82,15 +86,15 @@ Here are some GIFs showcasing the results obtained using PVST for saliency detec
 
 1. **Example 1 - Bike:**
 
-   ![Saliency Detection GIF 1](gifs/bike.gif)
+   ![Saliency Detection GIF 1](media/bike.gif)
 
 2. **Example 2 - Boat:**
 
-   ![Saliency Detection GIF 2](gifs/boat.gif)
+   ![Saliency Detection GIF 2](media/boat.gif)
 
 3. **Example 3 - Persons:**
 
-   ![Saliency Detection GIF 3](gifs/person.gif)
+   ![Saliency Detection GIF 3](media/person.gif)
 
 ## Contribution
 
