@@ -76,7 +76,18 @@ To train or test the model, follow these instructions:
    python train_test_eval.py --Training True --Testing True --Evaluation True --test_paths DUTS/DUTS-TE --pretrained_model ./pretrained_model/pvt_v2_b3.pth --save_model_dir checkpoint/pvt_v2_b3/ 
    ```
 
+## Results Showcase
 
+Here are some GIFs showcasing the results obtained using PVST for saliency detection:
+
+1. **Example 1 - Bike:**
+   ![Saliency Detection GIF 1](gifs/bike.gif)
+
+2. **Example 2 - Boat 2:**
+   ![Saliency Detection GIF 2](gifs/boat.gif)
+
+3. **Example 3 - Persons 3:**
+   ![Saliency Detection GIF 3](gifs/person.gif)
 
 ## Contribution
 
