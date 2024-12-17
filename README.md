@@ -1,7 +1,3 @@
-Here's an improved and polished version of the `README.md` file for your PVST project:
-
----
-
 # PVST: Pyramid Vision Transformer for Saliency Detection
 
 ## 🌟 Overview
